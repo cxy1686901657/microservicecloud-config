@@ -1,3 +1,4 @@
+# global config
 spring:
   profiles:
     active: dev
