@@ -1,4 +1,4 @@
-# global config1
+# global config1test
 spring:
   profiles:
     active: dev
